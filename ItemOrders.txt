@@ -1,0 +1,31 @@
+Date: 26 52 2023 
+ 
+Order number: 1 -> 2023-12-26 13:47:46.813
+Burger: $5.50
+Pizza: $5.50
+Total Price is $11.00
+
+Order number: 2 -> 2023-12-26 13:53:20.225
+Burger: $5.50
+Burger: $5.50
+Total Price is $11.00
+
+Date: 23 8 2024 
+ 
+Order number: 1 -> 2024-02-23 13:41:20.801
+Burger: $5.50
+Pizza: $5.50
+Total Price is $11.00
+
+Date: 23 8 2024 
+ 
+Order number: 1 -> 2024-02-23 13:52:29.052
+Dosa: $50
+Chappathi: $45
+Total Price is $95
+
+Order number: 2 -> 2024-02-23 13:55:30.004
+Juice: $40
+Juice: $40
+Total Price is $80
+
